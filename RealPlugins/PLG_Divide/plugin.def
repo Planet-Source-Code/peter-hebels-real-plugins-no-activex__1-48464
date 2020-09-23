@@ -1,0 +1,7 @@
+LIBRARY "PLG_Divide"
+DESCRIPTION "An example plugin"
+
+EXPORTS
+	CalculateFunct @1
+    GetFunct @2
+	ShowAbout @3
