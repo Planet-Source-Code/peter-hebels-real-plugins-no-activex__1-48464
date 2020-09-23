@@ -1,0 +1,8 @@
+Thank you for downloading this code! This document tells you how to get the plugin example up and running.
+
+I have included two plugin examples written in Visual C++, you can find them in the 'PLG_Divide' and
+'PLG_multiply' folders. 
+Before you use the plugin example written in Visual Basic, you first have to compile this plugins and put 
+the compiled dll files in the same directory where the Visual Basic example lives.
+
+Hope this plugin example is usefull to you!
